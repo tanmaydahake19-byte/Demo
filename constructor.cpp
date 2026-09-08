@@ -7,10 +7,7 @@ public:
   {
     cout<<"constructor is called";
   }
-  ~Basic()
-  {
-    cout<<"Destructor is called";
-  }
+
 };
 int main()
 {
